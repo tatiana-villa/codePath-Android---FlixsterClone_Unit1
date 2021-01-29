@@ -25,7 +25,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="https://github.com/tatiana-villa/codePathFlixster_Unit1/blob/master/Flixster_Unit1_wlkthrough.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Challenge in getting familiarized with Android studio and not being able to identify bugs.
 
 ### Open-source libraries used
 
